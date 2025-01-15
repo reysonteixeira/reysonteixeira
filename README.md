@@ -1,4 +1,4 @@
-### Hy there i am Reyson Teixeira! :gesto_amo_você:
+### Hy there i am Reyson Teixeira!
 <h1>:tecnólogo: About me</h1>
 ### I am a Back-end developer with expertise in Javascript and PHP!
 I work for WeexPass, our target is offer experiences for people around the world in the form of Travels.
@@ -10,7 +10,6 @@ Current i work with Typescript and NodeJs, but in my carrer i learned the follow
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 </div>
 <div>
   <a href="https://github.com/EliabeSantos" />
